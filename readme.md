@@ -43,8 +43,11 @@ as the unique id for the assembled product. I figured that this little symbol pr
 The problem was that this is actually a DATA MATRIX symbol....and they are super small. The symbol in the image below
 is only about 2.5 mm square.
 
-For testing, I had to take a photo of the data matrix then zoom and display my phone to the camera. In production,
-an inexpensive USB digital microscope is being used....[like this one](https://www.amazon.com/Microscope-ANNLOV-Electronic-Magnification-Adjustable/dp/B084HJ44J5/ref=sr_1_14?crid=2A1MVESL0BR51&keywords=coin+inspection+camera&qid=1637548136&qsid=137-0052057-0876551&sprefix=coin+ins%2Caps%2C224&sr=8-14&sres=B08CZCH2PP%2CB0928Q3T42%2CB081J3LN61%2CB07TV2BFVR%2CB07C9C6P5D%2CB0819Q2YLK%2CB08PTVBGBQ%2CB01MYTHWK4%2CB081RFWHTJ%2CB084HJ44J5%2CB08NJ8627V%2CB071HYRPND%2CB08DR573QL%2CB08MPXNW76%2CB09HX29ZKG%2CB07PN9N21Z&srpt=MICROSCOPES)
+For testing, I had to take a photo of the data matrix then zoom and display my phone to the camera. I've left a couple 
+examples of this in the `camera_images` and `failed_image_captures` folders.
+
+In production, an inexpensive USB digital microscope is being used....
+[like this one](https://www.amazon.com/Microscope-ANNLOV-Electronic-Magnification-Adjustable/dp/B084HJ44J5/ref=sr_1_14?crid=2A1MVESL0BR51&keywords=coin+inspection+camera&qid=1637548136&qsid=137-0052057-0876551&sprefix=coin+ins%2Caps%2C224&sr=8-14&sres=B08CZCH2PP%2CB0928Q3T42%2CB081J3LN61%2CB07TV2BFVR%2CB07C9C6P5D%2CB0819Q2YLK%2CB08PTVBGBQ%2CB01MYTHWK4%2CB081RFWHTJ%2CB084HJ44J5%2CB08NJ8627V%2CB071HYRPND%2CB08DR573QL%2CB08MPXNW76%2CB09HX29ZKG%2CB07PN9N21Z&srpt=MICROSCOPES)
 
 ---
 
